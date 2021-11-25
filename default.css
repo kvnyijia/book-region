@@ -1,0 +1,11 @@
+.countries {
+  /* fill: grey; */
+  stroke: #fff;
+  stroke-linejoin: round;
+}
+
+.tooltip {
+  /* float: left; */
+  /* top: 3000px; */
+  position: absolute;
+}
